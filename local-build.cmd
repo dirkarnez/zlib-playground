@@ -1,0 +1,2 @@
+            -DZLIB_ROOT="${{ github.workspace }}/zlib-v1.2.12-x86_64-posix-seh-rev0-8.1.0" ^
+            -DZLIB_USE_STATIC_LIBS=ON ^
